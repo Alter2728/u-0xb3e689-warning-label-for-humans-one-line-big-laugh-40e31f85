@@ -14,9 +14,12 @@ from pathlib import Path
 # but add the self-inflicted twist last — the human stays up
 # until 3 a.m. for absolutely no reason — so the laugh lands in
 # the final words, as a real printed warning label would read.
+# Tightened in-session: "complains about being tired" ->
+# "complains of exhaustion" — shorter, more label-like diction,
+# same setup, same twist at the end.
 LINE = (
-    "WARNING: This human runs on coffee, complains about being "
-    "tired, and stays up until 3 a.m. for absolutely no reason."
+    "WARNING: This human runs on coffee, complains of "
+    "exhaustion, and stays up until 3 a.m. for absolutely no reason."
 )
 
 
